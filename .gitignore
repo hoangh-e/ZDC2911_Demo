@@ -52,3 +52,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/RL10079DesktopDemo/RL10079DesktopDemo_Attendance_AccessControl_C\#/.vs
+/RL10079DesktopDemo/RL10079DesktopDemo_Attendance_AccessControl_C\#/.vs
+/RL10079DesktopDemo/RL10079DesktopDemo_Attendance_AccessControl_C\#/.vs
