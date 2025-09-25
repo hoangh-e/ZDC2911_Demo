@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|k:\\workspace\\bhk workspace\\demo\\rl10079desktopdemo_20151021\\rl10079desktopdemo\\rl10079desktopdemo_attendance_accesscontrol_c#\\iconvert\\convertobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:iconvert\\convertobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\entity\\devicecommety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:entity\\devicecommety.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\ui\\systemsettingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:ui\\systemsettingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hoang\\AppData\\Local\\Temp\\.vsdbgsrc\\4369343dc98a219c9105f470ce4490d3c3ec3a710bee7ac1e4caeac276233af8\\ComboBox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\ui\\systemsettingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:ui\\systemsettingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\ui\\systemsettingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:ui\\systemsettingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\ui\\enrolldetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:ui\\enrolldetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\sysenum\\userprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:sysenum\\userprivilege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\ui\\cmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:ui\\cmform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\business\\initdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:business\\initdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\ui\\cmform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:ui\\cmform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\ui\\attform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:ui\\attform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\ui\\systemsettingform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:ui\\systemsettingform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\ui\\cmform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:ui\\cmform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\ui\\realtimelogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:ui\\realtimelogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\ui\\slogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:ui\\slogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\ui\\glogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:ui\\glogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\ui\\namedatasettingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0973CCC9-D759-4737-8F43-FD3950AA16C7}|ZDC2911Demo.csproj|solutionrelative:ui\\namedatasettingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 513,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComboBox.cs",
+              "DocumentMoniker": "C:\\Users\\hoang\\AppData\\Local\\Temp\\.vsdbgsrc\\4369343dc98a219c9105f470ce4490d3c3ec3a710bee7ac1e4caeac276233af8\\ComboBox.cs",
+              "ToolTip": "C:\\Users\\hoang\\AppData\\Local\\Temp\\.vsdbgsrc\\4369343dc98a219c9105f470ce4490d3c3ec3a710bee7ac1e4caeac276233af8\\ComboBox.cs [Read Only]",
+              "ViewState": "AgIAABQGAAAAAAAAAAAowDUGAAAFAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T04:01:51.261Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemSettingForm.cs",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\SystemSettingForm.cs",
+              "RelativeDocumentMoniker": "UI\\SystemSettingForm.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\SystemSettingForm.cs",
+              "RelativeToolTip": "UI\\SystemSettingForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T02:18:15.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeviceCommEty.cs",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\Entity\\DeviceCommEty.cs",
+              "RelativeDocumentMoniker": "Entity\\DeviceCommEty.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\Entity\\DeviceCommEty.cs",
+              "RelativeToolTip": "Entity\\DeviceCommEty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:57:41.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConvertObject.cs",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\IConvert\\ConvertObject.cs",
+              "RelativeDocumentMoniker": "IConvert\\ConvertObject.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\IConvert\\ConvertObject.cs",
+              "RelativeToolTip": "IConvert\\ConvertObject.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA7wCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:54:17.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SystemSettingForm.cs [Design]",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\SystemSettingForm.cs",
+              "RelativeDocumentMoniker": "UI\\SystemSettingForm.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\SystemSettingForm.cs [Design]",
+              "RelativeToolTip": "UI\\SystemSettingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:56:58.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SystemSettingForm.Designer.cs",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\SystemSettingForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\SystemSettingForm.Designer.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\SystemSettingForm.Designer.cs",
+              "RelativeToolTip": "UI\\SystemSettingForm.Designer.cs",
+              "ViewState": "AgIAACMBAAAAAAAAAAAAADABAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T02:08:58.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnrollDetailForm.cs [Design]",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\EnrollDetailForm.cs",
+              "RelativeDocumentMoniker": "UI\\EnrollDetailForm.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\EnrollDetailForm.cs [Design]",
+              "RelativeToolTip": "UI\\EnrollDetailForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:57:14.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserPrivilege.cs",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\SysEnum\\UserPrivilege.cs",
+              "RelativeDocumentMoniker": "SysEnum\\UserPrivilege.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\SysEnum\\UserPrivilege.cs",
+              "RelativeToolTip": "SysEnum\\UserPrivilege.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:56:47.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CMForm.cs [Design]",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\CMForm.cs",
+              "RelativeDocumentMoniker": "UI\\CMForm.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\CMForm.cs [Design]",
+              "RelativeToolTip": "UI\\CMForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:57:18.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InitData.cs",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\Business\\InitData.cs",
+              "RelativeDocumentMoniker": "Business\\InitData.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\Business\\InitData.cs",
+              "RelativeToolTip": "Business\\InitData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:57:45.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Global.cs",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\Global.cs",
+              "RelativeDocumentMoniker": "Global.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\Global.cs",
+              "RelativeToolTip": "Global.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:58:09.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:58:07.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CMForm.Designer.cs",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\CMForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\CMForm.Designer.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\CMForm.Designer.cs",
+              "RelativeToolTip": "UI\\CMForm.Designer.cs",
+              "ViewState": "AgIAAKYBAAAAAAAAAAAAAMIBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T02:10:48.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttForm.cs [Design]",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\AttForm.cs",
+              "RelativeDocumentMoniker": "UI\\AttForm.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\AttForm.cs [Design]",
+              "RelativeToolTip": "UI\\AttForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:57:21.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SystemSettingForm.resx",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\SystemSettingForm.resx",
+              "RelativeDocumentMoniker": "UI\\SystemSettingForm.resx",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\SystemSettingForm.resx",
+              "RelativeToolTip": "UI\\SystemSettingForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-23T02:09:13.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CMForm.resx",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\CMForm.resx",
+              "RelativeDocumentMoniker": "UI\\CMForm.resx",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\CMForm.resx",
+              "RelativeToolTip": "UI\\CMForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-23T02:11:01.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SLogForm.cs [Design]",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\SLogForm.cs",
+              "RelativeDocumentMoniker": "UI\\SLogForm.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\SLogForm.cs [Design]",
+              "RelativeToolTip": "UI\\SLogForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:57:04.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RealTimeLogForm.cs [Design]",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\RealTimeLogForm.cs",
+              "RelativeDocumentMoniker": "UI\\RealTimeLogForm.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\RealTimeLogForm.cs [Design]",
+              "RelativeToolTip": "UI\\RealTimeLogForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:57:06.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GLogForm.cs [Design]",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\GLogForm.cs",
+              "RelativeDocumentMoniker": "UI\\GLogForm.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\GLogForm.cs [Design]",
+              "RelativeToolTip": "UI\\GLogForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:57:13.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NameDataSettingForm.cs [Design]",
+              "DocumentMoniker": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\NameDataSettingForm.cs",
+              "RelativeDocumentMoniker": "UI\\NameDataSettingForm.cs",
+              "ToolTip": "K:\\Workspace\\BHK workspace\\demo\\RL10079DesktopDemo_20151021\\RL10079DesktopDemo\\RL10079DesktopDemo_Attendance_AccessControl_C#\\UI\\NameDataSettingForm.cs [Design]",
+              "RelativeToolTip": "UI\\NameDataSettingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T01:57:07.473Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
